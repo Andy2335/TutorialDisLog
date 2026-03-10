@@ -7,7 +7,7 @@
 
 > [2. Instalación de herramientas             (VSCode, LushayCode, Verilog, OSS-CAD-Suite)](https://github.com/Andy2335/TutorialDisLog/wiki/3.-Entorno-de-desarrollo-(Toolchain-FPGA-Tanq-Nano-9k))
 
-> [3. Entorno de desarrollo                   (Toolchain FPGA Tanq Nano 9k)](https://github.com/Andy2335/TutorialDisLog/wiki/2.-Entorno-de-desarrollo-(Toolchain-FPGA-Tanq-Nano-9k))
+> [3. Entorno de desarrollo                   (Toolchain FPGA Tanq Nano 9k)](https://github.com/Andy2335/TutorialDisLog/wiki/3.-Entorno-de-desarrollo-(Toolchain-FPGA-Tanq-Nano-9k))
 
 > [4. Uso plantilla para proyectos            (Git & Github)](https://github.com/Andy2335/TutorialDisLog/wiki/4.-Uso-plantilla-para-proyectos-(Git-&-Github))
 
