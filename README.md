@@ -3,8 +3,7 @@
 > En este tutorial se explican los primeros pasos para utilizar la herramienta FPGA Tanq Nano 9k. Iniciando desde el setup, pasando por ejemplo tipo "Hello world" llamado "BlinkyLed", además de dos ejemplos más complejos "LCD_SPI" y "Seven_Seg" y finaliza con la explicación de plantillas y sus partes para generar proyectos propios, utilizando Git y GitHub como control de versiones y repositorio.
 
 ## Indice
->[text](https://github.com/Andy2335/TutorialDisLog.wiki.git)
->[1. Inicio del Tutorial                     (Explicación)] (https://github.com/Andy2335/TutorialDisLog.wiki.git)
+>[1. Inicio del Tutorial                     (Explicación)](https://github.com/Andy2335/TutorialDisLog.wiki.git)
 
 > 2. Instalación de herramientas             (VSCode, LushayCode, Verilog, OSS-CAD-Suite)
 
