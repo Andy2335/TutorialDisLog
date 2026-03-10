@@ -9,9 +9,9 @@
 
 > [3. Entorno de desarrollo                   (Toolchain FPGA Tanq Nano 9k)](https://github.com/Andy2335/TutorialDisLog/wiki/2.-Entorno-de-desarrollo-(Toolchain-FPGA-Tanq-Nano-9k))
 
-> [4. Uso plantilla para proyectos            (Git & Github)] (https://github.com/Andy2335/TutorialDisLog/wiki/4.-Uso-plantilla-para-proyectos-(Git-&-Github))
+> [4. Uso plantilla para proyectos            (Git & Github)](https://github.com/Andy2335/TutorialDisLog/wiki/4.-Uso-plantilla-para-proyectos-(Git-&-Github))
 
-> [5. Ejemplo Display 7 Segmentos             (Circuito, Código, Simulación, Resultados)] (https://github.com/Andy2335/TutorialDisLog/wiki/5.-Ejemplo-Display-7-Segmentos) 
+> [5. Ejemplo Display 7 Segmentos             (Circuito, Código, Simulación, Resultados)](https://github.com/Andy2335/TutorialDisLog/wiki/5.-Ejemplo-Display-7-Segmentos) 
 
 ## Abreviaturas y definiciones
 - **FPGA**: Field Programmable Gate Arrays
