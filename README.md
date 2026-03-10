@@ -17,10 +17,10 @@
 - **FPGA**: Field Programmable Gate Arrays
 
 ## Referencias
-[0] David Harris y Sarah Harris. *Digital Design and Computer Architecture. RISC-V Edition.* Morgan Kaufmann, 2022. ISBN: 978-0-12-820064-3
+> David Harris y Sarah Harris. *Digital Design and Computer Architecture. RISC-V Edition.* Morgan Kaufmann, 2022. ISBN: 978-0-12-820064-3
 
-[0] FZumb4do. *open_source_fpga_environment.* https://github.com/FZumb4do/open_source_fpga_environment.git
+> FZumb4do. *open_source_fpga_environment.* https://github.com/FZumb4do/open_source_fpga_environment.git
 
-[0] LUSHAYLABS. *Tang Nano 9K: Getting Setup.* https://learn.lushaylabs.com/getting-setup-with-the-tang-nano-9k/
+> LUSHAYLABS. *Tang Nano 9K: Getting Setup.* https://learn.lushaylabs.com/getting-setup-with-the-tang-nano-9k/
 
-[0] Sipeed Wiki — Tang Nano 9K: https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html
+> Sipeed Wiki — Tang Nano 9K: https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html
